@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd016ce4-fe81-4073-89bf-3af5279a197f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CinemaManagementRestEE/src/main/java/at/htl/cinemamanagement/LocalDateConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CinemaManagementSE/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementRestEE/src/main/java/at/htl/cinemamanagement/model/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementRestEE/src/main/java/at/htl/cinemamanagement/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementRestEE/src/main/java/at/htl/cinemamanagement/rest/EmployeeEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementRestEE/src/main/java/at/htl/cinemamanagement/rest/EmployeeEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementSE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementSE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/CinemaEnpointIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/CinemaEnpointIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/EmployeeEndpointIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/EmployeeEndpointIT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/PresentationEndpointIT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CinemaManagementSE/src/test/java/at/htl/cinemamanagement/rest/PresentationEndpointIT.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DBExport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1104">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/dbunit_full.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DBUnitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="50" column="64" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cinema_id</find>
+      <find>cinema_id=&quot;3&quot;</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/test/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/DBUnitTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/DBUnitBaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/expectedData.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DBExport.java" />
+        <option value="$PROJECT_DIR$/test2fail.xml" />
+        <option value="$PROJECT_DIR$/test2failed.xml" />
+        <option value="$PROJECT_DIR$/test0failed.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/expectedData0.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/sampleData.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/expectedData1.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/DBUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/expectedData2.xml" />
+        <option value="$PROJECT_DIR$/target/dbunit_full.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CinemaManagemetDBUnit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CinemaManagemetDBUnit" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548095228371" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48965517" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.DBUnitTest">
+    <configuration name="DBExport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DBExport" />
+      <module name="usedcarddealerdbtests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usedcarddealerdbtests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DBUnitTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUnitTest.test0_IsDBDataCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usedcarddealerdbtests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DBUnitTest" />
+      <option name="METHOD_NAME" value="test0_IsDBDataCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUnitTest.test1_InsertCinema" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usedcarddealerdbtests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DBUnitTest" />
+      <option name="METHOD_NAME" value="test1_InsertCinema" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUnitTest.test2_DeleteCinema" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="usedcarddealerdbtests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DBUnitTest" />
+      <option name="METHOD_NAME" value="test2_DeleteCinema" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="UsedCarDealerDBUnit" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="UsedCarDealerDBUnit" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DBUnitTest" />
+        <item itemvalue="JUnit.DBUnitTest.test1_InsertCinema" />
+        <item itemvalue="Application.DBExport" />
+        <item itemvalue="JUnit.DBUnitTest.test2_DeleteCinema" />
+        <item itemvalue="JUnit.DBUnitTest.test0_IsDBDataCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd016ce4-fe81-4073-89bf-3af5279a197f" name="Default Changelist" comment="" />
+      <created>1548001553025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548001553025</updated>
+      <workItem from="1548001557959" duration="2229000" />
+      <workItem from="1548004118653" duration="4778000" />
+      <workItem from="1548023687700" duration="5526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DBUnitTest_test0_IsDBDataCorrect - 2019.01.21 at 19h 11m 43s.xml">
+      <configuration name="DBUnitTest.test0_IsDBDataCorrect" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test1_InsertCinema - 2019.01.21 at 19h 13m 22s.xml">
+      <configuration name="DBUnitTest.test1_InsertCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test1_InsertCinema - 2019.01.21 at 19h 13m 54s.xml">
+      <configuration name="DBUnitTest.test1_InsertCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test2_DeleteCinema - 2019.01.21 at 19h 14m 51s.xml">
+      <configuration name="DBUnitTest.test2_DeleteCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest - 2019.01.21 at 19h 15m 01s.xml">
+      <configuration name="DBUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test2_DeleteCinema - 2019.01.21 at 19h 19m 46s.xml">
+      <configuration name="DBUnitTest.test2_DeleteCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest - 2019.01.21 at 19h 19m 55s.xml">
+      <configuration name="DBUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test1_InsertCinema - 2019.01.21 at 19h 21m 02s.xml">
+      <configuration name="DBUnitTest.test1_InsertCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest_test1_InsertCinema - 2019.01.21 at 19h 23m 10s.xml">
+      <configuration name="DBUnitTest.test1_InsertCinema" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBUnitTest - 2019.01.21 at 19h 25m 40s.xml">
+      <configuration name="DBUnitTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12533000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32980973" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32827735" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/DBConnection.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/DBUnitTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sampleData" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/target/northwind.dtd" />
+    <entry file="file://$PROJECT_DIR$/test2fail.xml" />
+    <entry file="file://$PROJECT_DIR$/test2failed.xml" />
+    <entry file="file://$PROJECT_DIR$/test0failed.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/expectedData2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/sampleData.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="3" column="119" selection-start-line="3" selection-start-column="119" selection-end-line="3" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#516#546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/expectedData0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="98" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/db.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/expectedData1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="104" lean-forward="true" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DBExport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/dbunit_full.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DBUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="64" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UsedCarDealerTests</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48965517" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-codec:commons-codec:1.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
